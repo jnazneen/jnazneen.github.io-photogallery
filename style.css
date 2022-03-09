@@ -3,31 +3,22 @@
 	background: rgb(165, 131, 131);
 	color: rgb(255, 255, 255);
 	padding:  60px;
-	font-size: 35px;
+	font-size: 60px;
 	font-family: verdana bold;
 
 }
 
-h1 {
+.header h1{
 	font-size: 60px;
 	font-weight: bold;
 }
 
-* {
-	box-sizing: border-box;
+#titulo {
+	font-size: 70px;
+	font-weight: bold;
 }
 
-.photos{
-	position: absolute;
-	width:  25%;
-	padding:  5px;
-}
 
-.move::after {
-	content:  "";
-	clear: both;
-	display: table;
-}
 
 .header1 {
 	text-align: center;
