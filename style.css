@@ -13,7 +13,7 @@
 }
 
 .photos{
-	float: left;
+	position: absolute;
 	width:  25%;
 	padding:  5px;
 }
