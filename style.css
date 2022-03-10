@@ -3,22 +3,11 @@
 	background: rgb(165, 131, 131);
 	color: rgb(255, 255, 255);
 	padding:  60px;
+	margin-bottom: 5px;
 	font-size: 60px;
 	font-family: verdana bold;
 
 }
-
-.header h1{
-	font-size: 60px;
-	font-weight: bold;
-}
-
-#titulo {
-	font-size: 70px;
-	font-weight: bold;
-}
-
-
 
 .header1 {
 	text-align: center;
@@ -27,4 +16,10 @@
 	padding:  60px;
 	font-size: 35px;
 	font-family: verdana bold;
+}
+
+.ending {
+	background:rgb(240, 170, 50);
+	padding: 10px;
+	text-align: center;
 }
