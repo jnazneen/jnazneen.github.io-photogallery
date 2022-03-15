@@ -70,6 +70,9 @@ mark {
 	color: black;
 }
 
+a:hover {
+	text-decoration: none;
+}
 .ending {
 	background:rgb(240, 170, 50);
 	padding: 10px;
@@ -109,7 +112,7 @@ mark {
 .lol1 {
 	text-align: center;
 	color: white;
-	margin-top: 10px;
+	padding: 3%;
 	font-family: georgia italic;
 	font-size: 25px;
 }
